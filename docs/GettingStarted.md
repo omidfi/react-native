@@ -9,7 +9,7 @@ next: android-setup
 
 ## Requirements
 
-1. OS X - Only OS X is currently supported
+1. OS X - Only OS X is currently supported (For Linux check [this issue](https://github.com/facebook/react-native/issues/2693) ) 
 2. [Homebrew](http://brew.sh/) is the recommended way to install Watchman and Flow.
 3. Install [Node.js](https://nodejs.org/) 4.0 or newer.
   - Install **nvm** with [its setup instructions here](https://github.com/creationix/nvm#installation). Then run `nvm install node && nvm alias default node`, which installs the latest version of Node.js and sets up your terminal so you can run it by typing `node`. With nvm you can install multiple versions of Node.js and easily switch between them.
